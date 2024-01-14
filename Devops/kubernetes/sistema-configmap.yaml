@@ -4,6 +4,6 @@ metadata:
   name: sistema-noticias-configmap
 data:
   HOST_DB: db-noticias:3306
-  USER_DB: root
-  PASS_DB: q1w2e3r4  
-  DATABASE_DB: empresa
+  USER_DB: xxxx
+  PASS_DB: xxxx  
+  DATABASE_DB: xxxx
