@@ -1,9 +1,0 @@
-kind: ConfigMap
-apiVersion: v1
-metadata:
-  name: sistema-noticias-configmap
-data:
-  HOST_DB: db-noticias:3306
-  USER_DB: xxxx
-  PASS_DB: xxxx  
-  DATABASE_DB: xxxx
